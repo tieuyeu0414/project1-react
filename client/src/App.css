@@ -1,0 +1,15 @@
+.btn-input{
+  padding: 1px 10px;
+  margin-left: 10px;
+  box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+.link-prepare{
+  border: 1px solid black;
+  color: black;
+  padding: 5px 10px;
+  margin-right: 10px;
+  background-color: white;
+}
+.link-prepare:hover{
+  text-decoration: none;
+}
